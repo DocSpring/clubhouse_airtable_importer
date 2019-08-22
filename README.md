@@ -2,7 +2,7 @@
 
 # Overview
 
-Migrate [tickets](https://airtable.com) from Airtable to [Clubhouse](https://clubhouse.io).
+Migrate tickets from [Airtable](https://airtable.com) to [Clubhouse](https://clubhouse.io).
 
 # Requirements
 
