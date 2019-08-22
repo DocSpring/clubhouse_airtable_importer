@@ -6,5 +6,8 @@ git_source(:github) do |repo_name|
   "https://github.com/#{repo_name}.git"
 end
 
-gem 'clubhouse2'
+gem 'activesupport'
+gem 'awesome_print'
+gem 'airrecord'
+gem 'clubhouse.io-ruby'
 gem 'dotenv'
